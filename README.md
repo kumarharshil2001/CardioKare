@@ -1,1 +1,1 @@
-# heart_disease_prediction
+# CardioKare
